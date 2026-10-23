@@ -5,7 +5,7 @@ library(tarchetypes) # Load other packages as needed.
 
 # Set target options:
 tar_option_set(
-  packages = c("tidyverse", "here", "dplyr", "gt") 
+  packages = c("here", "dplyr", "gt", "ggplot2") 
 )
 
 # Other files that are needed

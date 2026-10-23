@@ -1,10 +1,10 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
 penguins|stem|d35dfe6fb27b43d9|4998dd5b2febcfee|2c530c1562a7fbd1|-490580794||t20749.5272608863s|s2891b|2891|rds|local|vector|||4.11||
-penguins_data|stem|d35dfe6fb27b43d9|4998dd5b2febcfee|2c530c1562a7fbd1|-756102175||t20749.5279837778s|s2891b|2891|rds|local|vector|||0.88||
-penguins_prepped|stem|5b163f2136a76b6f|8eb744c47377405e|4ee0095563b77521|401907192||t20749.5320750597s|s2830b|2830|rds|local|vector|||0||
-model|stem|e610600566a79708|137420580c539ef9|118098c688b8d1e2|808688450||t20749.5320785291s|s5902b|5902|rds|local|vector|||0.02||
-my_favorite_figure|stem|bbc8ef64c5413e7b|b2f18c122a33c747|62a9c2c8f5144afc|-47428489||t20749.5366732845s|s257655b|257655|rds|local|vector|||0.03||
 fit_model|function|bee4f07b74a7a8ac
 penguin_prep|function|85a58e7ee0a8cc78
 make_figure|function|3eb446d3449e42d6
-Manuscript|stem|00e7b31d9a4ae7df|23b6fd7f9cd705f5|d6ffdba2e2e65f03|1152779283|Manuscript.html*Manuscript_files*Manuscript.qmd|t20749.5370355947s|s922276b|922276|file|local|vector|||8.5||
+penguins_data|stem|0d29f3654dcc86b1|4998dd5b2febcfee|2c530c1562a7fbd1|-756102175||t20749.56903982s|s2891b|2891|rds|local|vector|||0.236||
+penguins_prepped|stem|cca6123d7c092401|8eb744c47377405e|bae7193dec455660|401907192||t20749.5690402777s|s2830b|2830|rds|local|vector|||0.005||
+my_favorite_figure|stem|3a670f47a5a1ab77|b2f18c122a33c747|c77424ee15a8de56|-47428489||t20749.5690417414s|s257655b|257655|rds|local|vector|||0.028||
+model|stem|e33930c9c0355a2f|137420580c539ef9|91855d132a9942e6|808688450||t20749.5690418513s|s5891b|5891|rds|local|vector|||0.003||
+Manuscript|stem|ed373112a6285d2d|23b6fd7f9cd705f5|28746bff226c874b|1152779283|Manuscript_files*Manuscript.html*Manuscript.qmd|t20749.569083246s|s1392792b|1392792|file|local|vector|||3.563||
